@@ -7,7 +7,7 @@
 
   <groupId>com.foo</groupId>
   <artifactId>bar</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.5-SNAPSHOT</version>
 
   <dependencies>
 
